@@ -113,7 +113,7 @@ path.logs: /var/log/elasticsearch/
 
 # If a plugin listed here is not installed for current node, the node will not start.
 #
-plugin.mandatory: discovery-ec2, x-pack
+plugin.mandatory: discovery-ec2
 
 ############################## Network And HTTP ###############################
 
